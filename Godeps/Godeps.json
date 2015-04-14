@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/ladbrokes/ringcap",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/google/gopacket",
+			"Comment": "v1.1.10-15-g25f19f5",
+			"Rev": "25f19f5449953c9ff7fc8ce564d3608f2616bf3a"
+		},
+		{
+			"ImportPath": "github.com/op/go-logging",
+			"Rev": "e5fb9bb8a3a168cc269b38f092b65d2e18cebb9a"
+		},
+		{
+			"ImportPath": "github.com/pivotal-golang/bytefmt",
+			"Rev": "eb6a478daea5cd564c230719240761a1a2ccc713"
+		}
+	]
+}
