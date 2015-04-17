@@ -1,6 +1,6 @@
 # ringcap
 
-`ringcap` is a diagnostic tool that allows you to capture packets in a ringbuffer to be dumped to a secondary host on a UDp trigger.
+`ringcap` is a diagnostic tool that allows you to capture packets in a ringbuffer to be dumped to a secondary host on a UDP trigger.
 
 A useful tool for tracking down seemingly random network/protocol issues.
 
