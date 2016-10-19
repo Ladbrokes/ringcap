@@ -86,4 +86,4 @@ godep go build .
 
 ##License
 
-Copyright (c) 2015 Shannon Wynter, Ladbrokes Digital Australia Pty Ltd. Licensed under GPL2. See the [LICENSE.md](LICENSE.md) file for a copy of the license.
+Copyright (c) 2015 Shannon Wynter, Ladbrokes Digital Australia Pty Ltd. Licensed under GPL3. See the [LICENSE.md](LICENSE.md) file for a copy of the license.
